@@ -20,6 +20,8 @@ Network Miner (Web/Email/Client):     http://bit.ly/19YLjWT
 
 OSSEC (Logs):                         http://bit.ly/1dhnSCr
 
+Sysinternals Suite (Many programs listed above):  http://bit.ly/1ANJW6z
+
 
 # Linux:
 Mod_Security (trouble installing)
